@@ -10,7 +10,7 @@ contract firstcontract{
      address public myAddress = 0x5B38Da6a701c568545dCfcB03FcB875f56beddC4;
 
      bool public isActive = true;
-
+ 
 
 
 
